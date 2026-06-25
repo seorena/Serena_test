@@ -1,10 +1,14 @@
 # Serena_test
 test repo for git / github lesson (NCEAS)
 
-##Purpose
+##Purpose##
 
 - Create a remote repository on GitHub
 - To practice git workflows
+
+##Creator##
+
+Serena is a master's student at San Francisco State University, participating as a peer mentor for the PINC Summer Program. If you have any questions about the program, you can read up on it [here](https://biology.sfsu.edu/pincsummerprogram).
 
 *Italics*
 **Bold**
